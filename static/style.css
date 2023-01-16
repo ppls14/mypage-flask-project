@@ -1,0 +1,28 @@
+.intro{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 80px;
+    padding: 1px;
+}
+h2{
+    padding-left:5%;
+    color: white;
+    background-color: black;
+    font-size: 60px;
+}
+h3{
+    font-weight: bold;
+    padding-left: 10%;
+    color: black;
+    font-size: 40px;
+}
+li{
+    margin-left: 10%;
+    font-size: 40px;
+}
+h4{
+    font-weight: bold;
+    font-size: 40px;
+}
+
